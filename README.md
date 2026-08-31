@@ -35,6 +35,10 @@ A bold, editorial HTML template for news rooms, press hubs, and online journalis
 3. Edit content directly in the HTML files
 4. Customize colors in `assets/css/style.css` via CSS custom properties
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 ### Colors
